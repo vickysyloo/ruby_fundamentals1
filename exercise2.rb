@@ -4,7 +4,7 @@ puts "0.20 * 50"
 
 # 2. Question 2
 
-puts "This is a string" + " 5"
+puts "This is a string " + 5.to_string
 
 #  Question 3
 
